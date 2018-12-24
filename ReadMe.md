@@ -19,10 +19,14 @@
 - 第06集 [列空间和零空间](chapter06.ipynb)
 - 第07集 [求解Ax=0：主变量、特解](chapter07.ipynb)
 - 第08集 [求解Ax=b：可解性和解的结构](chapter08.ipynb)
+
 - 第12集 [图和网络](chapter12.ipynb)
 - 第13集 [复习一](chapter13.ipynb)
 - 第14集 [正交向量与子空间](chapter14.ipynb)
 - 第15集 [子空间投影](chapter15.ipynb)
+
+- 第09集 [线性相关性、基、维数](chapter09.ipynb)
+- 第10集 [四个基本子空间](chapter10.ipynb)
 - 第16集 [投影矩阵和最小二乘](chapter16.ipynb)
 - 第17集 [正交矩阵和Gram-Schmidt正交化](chapter17.ipynb)
 - 第18集 [行列式及其性质](chapter18.ipynb)
